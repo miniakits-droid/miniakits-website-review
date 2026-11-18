@@ -1,0 +1,16 @@
+(()=>{const g=document.getElementById('kpgrid'),lb=document.getElementById('lb');if(!g||!lb)return;
+const EN=window.LANG==='en',img=document.getElementById('lbimg'),cap=document.getElementById('lbcap'),w=document.getElementById('lbwa');
+const items=[...g.querySelectorAll('.kp')];let i=0;
+const show=n=>{i=(n+items.length)%items.length;const it=items[i],num=String(i+1).padStart(2,'0');
+img.src=`/img/kits/kit-${num}.webp`;img.alt=it.querySelector('img').alt;cap.textContent=(EN?'Model ':'Modèle ')+num;
+w.textContent=EN?'💬 Order this model':'💬 Commander ce modèle';
+w.href='https://wa.me/212700563350?text='+encodeURIComponent(it.querySelector('.wa').dataset.wa);
+lb.hidden=false;document.body.style.overflow='hidden'};
+const close=()=>{lb.hidden=true;document.body.style.overflow=''};
+g.addEventListener('click',e=>{const b=e.target.closest('.kp-ph');if(b)show(+b.dataset.i)});
+lb.querySelector('.lb-x').onclick=close;lb.querySelector('.lb-p').onclick=()=>show(i-1);lb.querySelector('.lb-n').onclick=()=>show(i+1);
+lb.addEventListener('click',e=>{if(e.target===lb)close()});
+addEventListener('keydown',e=>{if(lb.hidden)return;if(e.key==='Escape')close();if(e.key==='ArrowLeft')show(i-1);if(e.key==='ArrowRight')show(i+1)});
+let x0=null;lb.addEventListener('touchstart',e=>x0=e.touches[0].clientX,{passive:true});
+lb.addEventListener('touchend',e=>{if(x0==null)return;const d=e.changedTouches[0].clientX-x0;if(Math.abs(d)>50)show(i+(d<0?1:-1));x0=null});
+})();

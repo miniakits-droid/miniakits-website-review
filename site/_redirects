@@ -1,0 +1,16 @@
+# Clean up legacy or mistyped URLs (301 permanent)
+/404 / 301
+/404.html / 301
+/privacy /politique-de-confidentialite 301
+/privacy-policy /politique-de-confidentialite 301
+/en/privacy /politique-de-confidentialite 301
+/en/privacy-policy /politique-de-confidentialite 301
+/confidentialite /politique-de-confidentialite 301
+/politique-confidentialite /politique-de-confidentialite 301
+/politique_de_confidentialite /politique-de-confidentialite 301
+/legal /mentions-legales 301
+/en/legal /en/legal-notice 301
+/mentions /mentions-legales 301
+/cgv /conditions-de-vente 301
+/terms /conditions-de-vente 301
+/en/terms-of-sale /en/terms 301

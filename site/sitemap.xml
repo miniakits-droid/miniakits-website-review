@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url><loc>https://miniakits.com/</loc><lastmod>2026-10-27</lastmod><priority>1.0</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://miniakits.com/ar/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/"/>
+</url>
+<url><loc>https://miniakits.com/en/</loc><lastmod>2026-10-27</lastmod><priority>0.8</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://miniakits.com/ar/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/"/>
+</url>
+<url><loc>https://miniakits.com/ar/</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/"/>
+  <xhtml:link rel="alternate" hreflang="ar" href="https://miniakits.com/ar/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/"/>
+</url>
+<url><loc>https://miniakits.com/kits</loc><lastmod>2026-10-27</lastmod><priority>0.9</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/kits"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/kits"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/kits"/>
+</url>
+<url><loc>https://miniakits.com/en/kits</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/kits"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/kits"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/kits"/>
+</url>
+<url><loc>https://miniakits.com/anniversaire</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/anniversaire"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/birthday-party"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/anniversaire"/>
+</url>
+<url><loc>https://miniakits.com/en/birthday-party</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/anniversaire"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/birthday-party"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/anniversaire"/>
+</url>
+<url><loc>https://miniakits.com/ecoles-evenements</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/ecoles-evenements"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/schools-events"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/ecoles-evenements"/>
+</url>
+<url><loc>https://miniakits.com/en/schools-events</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/ecoles-evenements"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/schools-events"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/ecoles-evenements"/>
+</url>
+<url><loc>https://miniakits.com/idee-cadeau</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/idee-cadeau"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/gift-ideas"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/idee-cadeau"/>
+</url>
+<url><loc>https://miniakits.com/en/gift-ideas</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/idee-cadeau"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/gift-ideas"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/idee-cadeau"/>
+</url>
+<url><loc>https://miniakits.com/ados-adultes</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/ados-adultes"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/teens-adults"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/ados-adultes"/>
+</url>
+<url><loc>https://miniakits.com/en/teens-adults</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/ados-adultes"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/teens-adults"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/ados-adultes"/>
+</url>
+<url><loc>https://miniakits.com/mentions-legales</loc><lastmod>2026-10-27</lastmod><priority>0.6</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/mentions-legales"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/legal-notice"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/mentions-legales"/>
+</url>
+<url><loc>https://miniakits.com/en/legal-notice</loc><lastmod>2026-10-27</lastmod><priority>0.6</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/mentions-legales"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/legal-notice"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/mentions-legales"/>
+</url>
+<url><loc>https://miniakits.com/conditions-de-vente</loc><lastmod>2026-10-27</lastmod><priority>0.6</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/conditions-de-vente"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/terms"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/conditions-de-vente"/>
+</url>
+<url><loc>https://miniakits.com/en/terms</loc><lastmod>2026-10-27</lastmod><priority>0.6</priority>
+  <xhtml:link rel="alternate" hreflang="fr" href="https://miniakits.com/conditions-de-vente"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://miniakits.com/en/terms"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://miniakits.com/conditions-de-vente"/>
+</url>
+<url><loc>https://miniakits.com/blog/</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority>
+</url>
+<url><loc>https://miniakits.com/blog/activites-creatives-enfants-maison-maroc</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority>
+</url>
+<url><loc>https://miniakits.com/blog/peindre-figurine-platre-guide</loc><lastmod>2026-10-27</lastmod><priority>0.7</priority>
+</url>
+<url><loc>https://miniakits.com/reglement-novembre</loc><lastmod>2026-11-07</lastmod></url>
+<url><loc>https://miniakits.com/politique-de-confidentialite</loc><lastmod>2026-11-07</lastmod><priority>0.6</priority></url>
+<url><loc>https://miniakits.com/blog/10-idees-anniversaire-creatif-enfants-maroc</loc><lastmod>2026-11-08</lastmod><priority>0.7</priority></url>
+<url><loc>https://miniakits.com/blog/organiser-atelier-peinture-ecole</loc><lastmod>2026-11-08</lastmod><priority>0.7</priority></url>
+</urlset>

@@ -1,0 +1,4 @@
+wrangler.toml
+functions/
+.wrangler/
+_worker.bundle
